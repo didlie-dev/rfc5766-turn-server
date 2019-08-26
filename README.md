@@ -1,4 +1,7 @@
+As of 8/26/2019 the popular conses is the use of coturn/cotrun for deployment of a stun/turn
+
 RFC5766-TURN-SERVER legacy project repository
+https://code.google.com/archive/p/rfc5766-turn-server/
 =================================================
 The new development is here:
 --------------------------------------------------------------
